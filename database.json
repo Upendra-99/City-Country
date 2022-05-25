@@ -1,0 +1,138 @@
+{
+  "country": [
+    {
+      "id": 1,
+      "country": "India"
+    },
+    {
+      "id": 2,
+      "country": "USA"
+    },
+    {
+      "id": 3,
+      "country": "South Korea"
+    },
+    {
+      "id": 4,
+      "country": "Australia"
+    },
+    {
+      "id": 5,
+      "country": "Russia"
+    },
+    {
+      "id": 6,
+      "country": "Pakinstan"
+    },
+    {
+      "id": 7,
+      "country": "China"
+    },
+    {
+      "country": "india",
+      "id": 8
+    },
+    {
+      "country": "Neatherland",
+      "id": 9
+    },
+    {
+      "country": "fsdgfsdgs",
+      "id": 10
+    }
+  ],
+  "cities": [
+    {
+      "city": "Lucknow",
+      "population": "1200000",
+      "country_id": "1",
+      "id": 1
+    },
+    {
+      "city": "Pune",
+      "population": "23000000",
+      "country_id": "1",
+      "id": 2
+    },
+    {
+      "city": "Thane",
+      "population": "4465656",
+      "country_id": "1",
+      "id": 3
+    },
+    {
+      "city": "DC Washington",
+      "population": "3356567",
+      "country_id": "2",
+      "id": 4
+    },
+    {
+      "city": "Jersey DC",
+      "population": "23666678",
+      "country_id": "2",
+      "id": 5
+    },
+    {
+      "city": "Sindh Province",
+      "population": "450000",
+      "country_id": "6",
+      "id": 6
+    },
+    {
+      "city": "Islamabad",
+      "population": "7800000",
+      "country_id": "6",
+      "id": 7
+    },
+    {
+      "city": "Patrina",
+      "population": "6589000",
+      "country_id": "5",
+      "id": 8
+    },
+    {
+      "city": "Troopis",
+      "population": "19078090",
+      "country_id": "5",
+      "id": 9
+    },
+    {
+      "city": "Placio",
+      "population": "30000000",
+      "country_id": "9",
+      "id": 10
+    }
+  ],
+  "Users": [
+    {
+      "email": "ram@gmail.com",
+      "userName": "Ram",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "email": "herabssitm@gmail.com",
+      "userName": "Heera",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "email": "anil@gmail.com",
+      "userName": "anil",
+      "password": "anil@123",
+      "id": 3
+    },
+    {
+      "email": "chauhanup47@gmail.com",
+      "userName": "Upendra",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "email": "nitin@gmail.com",
+      "userName": "Nitin Maharshi",
+      "password": "nitin@123",
+      "id": 5
+    }
+  ]
+}

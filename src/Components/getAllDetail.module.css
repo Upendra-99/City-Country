@@ -1,0 +1,15 @@
+.table {
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+}
+
+.tr {
+  display: flex;
+  justify-content: center;
+}
+
+.td {
+  width: 250px;
+  border: 1px solid #3b3a3a;
+}
